@@ -13,7 +13,7 @@ This is  for a c sharp course. but if you want you can copy some of the code i g
 
 using System;
 using System.Threading;
-using System.Windows.Forms
+using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using System.ComponentModel;
 
